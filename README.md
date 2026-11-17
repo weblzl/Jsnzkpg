@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://pan.uphui.com/view.php/41bd9c87450a80dc2a1f7a8731a37f1d.gif" alt="置顶GIF" />
+<img src="https://jsnz.pages.dev/f/5ab7e916.gif" alt="置顶GIF" />
 
 ---
 
@@ -14,7 +14,7 @@
 | 👖 | 所有资源汇总 | [收藏](https://jsnzkpg.com) |
 | ✈️ | Telegram频道 | [关注](https://t.me/stymei) |
 | ✈️ | Telegram群聊 | [进群](https://telegram.me/+j664EmVv8m0wZGVk) |
-| 🪜 | 永久节点订阅 | [复制](https://sub.445569.xyz) |
+| 🪜 | 永久节点订阅 | [复制](https://stymei.445569.xyz) |
 | 📺 | 永久IPTV订阅 | [复制](https://iptv.445569.xyz/live.m3u) |
 | 🎥 | 永久TVbox订阅 | [复制](https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg) |
 
